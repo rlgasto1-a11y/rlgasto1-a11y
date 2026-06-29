@@ -23,8 +23,8 @@ I want to work in **UX/UI design**, Product design, **front-end development**, o
 - Behance: https://behance.net/rashadgaston  
 ---
 
-## 🖼️ Image
-![Profile Banner](https://via.placeholder.com/1000x250.png?text=Rashad+Gaston+%7C+GIT+Student+%7C+UX%2FUI+%26+Web+Development)
+
+
 
 
 
