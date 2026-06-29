@@ -4,7 +4,7 @@ I'm a senior at **Arizona State University** studying **Graphic Information Tech
 
 ---
 
-## 📚 What I'm Learning
+## What I'm Learning
 - HTML, CSS, JavaScript  
 - UX/UI design & prototyping  
 - Adobe Photoshop, Illustrator, InDesign  
@@ -12,12 +12,12 @@ I'm a senior at **Arizona State University** studying **Graphic Information Tech
 
 ---
 
-## 🎯 My Goals
-I want to work in **UX/UI design**, **front-end development**, or **AI-assisted design** after graduation.
+## My Goals
+I want to work in **UX/UI design**, Product design **front-end development**, or **AI-assisted design** after graduation.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 - CodePen: https://codepen.io/Rashad-Gaston  
 - LinkedIn: https://www.linkedin.com/in/rashad-gaston/  
 - Behance: https://behance.net/rashadgaston  
