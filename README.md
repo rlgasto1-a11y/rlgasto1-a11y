@@ -13,7 +13,7 @@ I'm a senior at **Arizona State University** studying **Graphic Information Tech
 ---
 
 ## My Goals
-I want to work in **UX/UI design**, Product design **front-end development**, or **AI-assisted design** after graduation.
+I want to work in **UX/UI design**, **Product design, **front-end development**, or **AI-assisted design** after graduation.
 
 ---
 
